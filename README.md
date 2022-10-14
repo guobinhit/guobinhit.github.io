@@ -1,11 +1,9 @@
 # Charies Gavin
 
-![chariesgavin](.../master/src/images/chariesgavin.jpeg)
-
 ## Education
 
-- 2011 ~ 2015 Heilongjiang Bayi Agricultural University
-- 2015 ~ 2017 Harbin Institute of Technology 
+- 2011 ~ 2015 Heilongjiang Bayi Agricultural University, Bachelor
+- 2015 ~ 2017 Harbin Institute of Technology, Master
 
 ## Work Experience
 
