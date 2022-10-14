@@ -1,11 +1,13 @@
-## Charies Gavin
+# Charies Gavin
 
+![chariesgavin](.../master/src/images/chariesgavin.jpeg)
 
-# Education
+## Education
 
-- 2015 ~ 2017 HIT 
+- 2011 ~ 2015 Heilongjiang Bayi Agricultural University
+- 2015 ~ 2017 Harbin Institute of Technology 
 
-# Work
+## Work Experience
 
 - 2017 ~ 2020 YeePay
 - 2020 ~ 2021 GaoTu
