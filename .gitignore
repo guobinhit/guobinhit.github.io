@@ -14,3 +14,22 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# Ingore DS_Store files
+.DS_Store
+*/.DS_Store
+*/*/.DS_Store
+
+# Website Template Ingore Contents
+# Ignore the contents of the _site directory
+_site/
+
+# Ignore the directory for local files during development
+local/
+
+# Ignore the Gemfile that is generated
+Gemfile.lock
+
+# Ingore files created by npm
+node_modules
+package-lock.json
