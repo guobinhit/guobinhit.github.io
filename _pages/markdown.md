@@ -1,11 +1,13 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Guide"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
+
+Record some very practical websites here.
 
 ## Practical website
 
