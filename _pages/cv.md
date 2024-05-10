@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in China, [Harbin Institute of Technology](https://baike.baidu.com/item/%E5%93%88%E5%B0%94%E6%BB%A8%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6), 2017
-* B.S. in China, [Heilongjiang Bayi Agricultural University](https://baike.baidu.com/item/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%85%AB%E4%B8%80%E5%86%9C%E5%9E%A6%E5%A4%A7%E5%AD%A6), 2015
+* M.S. in China, [Harbin Institute of Technology](https://baike.baidu.com/item/%E5%93%88%E5%B0%94%E6%BB%A8%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6), 2015
+* B.S. in China, [Heilongjiang Bayi Agricultural University](https://baike.baidu.com/item/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%85%AB%E4%B8%80%E5%86%9C%E5%9E%A6%E5%A4%A7%E5%AD%A6), 2011
 
 Work experience
 ======
