@@ -27,6 +27,7 @@ Record some very practical websites here.
 * [devv_](https://devv.ai/)
 * [ChatGPT](https://chat.openai.com/)
 * [Kimi.ai](https://kimi.moonshot.cn/)
+* [Gemini（Google）](https://gemini.google.com/)
 * [文心一言（百度）](https://yiyan.baidu.com/)
 * [讯飞星火（科大讯飞）](https://xinghuo.xfyun.cn/)
 * [通义（阿里巴巴）](https://tongyi.aliyun.com/)

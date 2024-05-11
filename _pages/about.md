@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Hello World, I'm GUO BIN.**
+**I'm Guo Bin, also Charies Gavin.**
 
 ------
 
