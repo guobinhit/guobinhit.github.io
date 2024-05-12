@@ -1,32 +1,11 @@
 ---
-layout: archive
-title: "CV"
+layout: cv
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+title: cv
+nav: true
+nav_order: 5
+cv_pdf: example_pdf.pdf
+description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+toc:
+  sidebar: left
 ---
-
-{% include base_path %}
-
-Education
-======
-* M.S. in China, [Harbin Institute of Technology](https://baike.baidu.com/item/%E5%93%88%E5%B0%94%E6%BB%A8%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6), 2015
-* B.S. in China, [Heilongjiang Bayi Agricultural University](https://baike.baidu.com/item/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%85%AB%E4%B8%80%E5%86%9C%E5%9E%A6%E5%A4%A7%E5%AD%A6), 2011
-
-Work experience
-======
-* 2022.04.13 ~ today      [ByteDance](https://www.bytedance.com/zh/) 
-* 2021.03.02 ~ 2022.04.07 [DiDi](https://www.didiglobal.com/)
-* 2020.03.12 ~ 2021.02.26 [GaoTu](https://www.genshuixue.com/)
-* 2016.12.19 ~ 2020.02.14 [YeePay](https://www.yeepay.com/)
-  
-Skills
-======
-* Programming Language
-  * Go
-  * Java
-  * Python
-* Part-time Job
-  * Tour Guide
-  * Crosstalk Actor
