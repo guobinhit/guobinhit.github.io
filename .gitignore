@@ -1,35 +1,15 @@
-# Binaries for programs and plugins
-*.exe
-*.exe~
-*.dll
-*.so
-*.dylib
-*.idea
-
-# Test binary, built with `go test -c`
-*.test
-
-# Output of the go coverage tool, specifically when used with LiteIDE
-*.out
-
-# Dependency directories (remove the comment below to include it)
-# vendor/
-
-# Ingore DS_Store files
-.DS_Store
-*/.DS_Store
-*/*/.DS_Store
-
-# Website Template Ingore Contents
-# Ignore the contents of the _site directory
-_site/
-
-# Ignore the directory for local files during development
-local/
-
-# Ignore the Gemfile that is generated
+_site
+.bundle
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+.DS_store
+.ruby-version
+.tweet-cache
 Gemfile.lock
-
-# Ingore files created by npm
-node_modules
+assets/libs/
+node_modules/
+vendor
+.idea/
+Gemfile.lock
 package-lock.json
