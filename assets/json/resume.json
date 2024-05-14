@@ -1,15 +1,15 @@
 {
   "basics": {
     "name": "GUO BIN",
-    "label": "Tour Guide, Crosstalk Actor",
+    "label": "Tour Guide, Crosstalk Actor, Senior Engineer",
     "image": "",
     "email": "guobinhit@gmail.com",
     "phone": "(852) 9353 6994",
     "url": "https://guobinhit.github.io/",
-    "summary": "A China-born interest man.",
+    "summary": "An interesting soul born in China.",
     "location": {
       "address": "Chaoyang District, Sun Palace, RongZhongXin A",
-      "postalCode": "CA 94115",
+      "postalCode": "100020",
       "city": "Beijing",
       "countryCode": "CN",
       "region": "Beijing"
@@ -24,36 +24,36 @@
   },
   "work": [
     {
-      "name": "ByteDance",
-      "position": "Senior Engineer",
+      "name": "Senior Engineer",
+      "position": "ByteDance",
       "url": "https://www.bytedance.com/",
       "startDate": "2022-04-13",
       "endDate": "today",
-      "summary": "Responsible for the research and development of brand advertising in ByteDance China."
+      "summary": "Worked in the vertical business of China Business Platform and am responsible for the research and development of brand direction."
     },
     {
-      "name": "DiDi",
-      "position": "Senior Engineer",
+      "name": "Senior Engineer",
+      "position": "DiDi",
       "url": "https://www.didiglobal.com/",
       "startDate": "2021-03-02",
       "endDate": "2022-04-07",
-      "summary": "Responsible for the research and development of Didi passenger operations."
+      "summary": "Worked in the Ride Hailing Technology Department and am responsible for the user operation and relationship engine development in the passenger operation and social direction."
     },
     {
-      "name": "GaoTu",
-      "position": "Senior Engineer",
-      "url": "https://www.gaotu.cn",
+      "name": "Senior Engineer",
+      "position": "GaoTu",
+      "url": "https://baike.baidu.com/item/%E9%AB%98%E9%80%94%E9%9B%86%E5%9B%A2/56802279?fr=ge_ala",
       "startDate": "2020-03-12",
       "endDate": "2021-02-26",
-      "summary": "TODO."
+      "summary": "Worked in the User Growth Department and am responsible for the microserviceization and questionnaire system of the TianQuan system.."
     },
     {
-      "name": "YeePay",
-      "position": "Senior Engineer",
+      "name": "Senior Engineer",
+      "position": "YeePay",
       "url": "https://www.yeepay.com/",
       "startDate": "2016-12-19",
       "endDate": "2020-02-14",
-      "summary": "TODO."
+      "summary": "Worked in the QianMai Business Department, responsible for operating the backend, merchant backend, merchant network access, and settlement modules."
     }
   ],
   "education": [
