@@ -1,14 +1,14 @@
 {
   "basics": {
     "name": "GUO BIN",
-    "label": "Brave Eagle",
+    "label": "Tour Guide, Crosstalk Actor",
     "image": "",
     "email": "guobinhit@gmail.com",
     "phone": "(852) 9353 6994",
     "url": "https://guobinhit.github.io/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "A China-born interest man.",
     "location": {
-      "address": "2712 Broadway St",
+      "address": "Chaoyang District, Sun Palace, RongZhongXin A",
       "postalCode": "CA 94115",
       "city": "Beijing",
       "countryCode": "CN",
@@ -29,8 +29,7 @@
       "url": "https://www.bytedance.com/",
       "startDate": "2022-04-13",
       "endDate": "today",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "summary": "Responsible for the research and development of brand advertising in ByteDance China."
     },
     {
       "name": "DiDi",
@@ -38,8 +37,23 @@
       "url": "https://www.didiglobal.com/",
       "startDate": "2021-03-02",
       "endDate": "2022-04-07",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "summary": "Responsible for the research and development of Didi passenger operations."
+    },
+    {
+      "name": "GaoTu",
+      "position": "Senior Engineer",
+      "url": "https://www.gaotu.cn",
+      "startDate": "2020-03-12",
+      "endDate": "2021-02-26",
+      "summary": "TODO."
+    },
+    {
+      "name": "YeePay",
+      "position": "Senior Engineer",
+      "url": "https://www.yeepay.com/",
+      "startDate": "2016-12-19",
+      "endDate": "2020-02-14",
+      "summary": "TODO."
     }
   ],
   "education": [
@@ -62,31 +76,6 @@
       "endDate": "2015-09-30"
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    }
-  ],
   "skills": [
     {
       "name": "Programming Language",
@@ -107,7 +96,7 @@
     },
     {
       "language": "Japanese",
-      "fluency": "Fluent",
+      "fluency": "Interested",
       "icon": ""
     },
     {
@@ -118,12 +107,12 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Hobby",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information"
+        "Music",
+        "Travel",
+        "Delicious Food"
       ]
     }
   ]
