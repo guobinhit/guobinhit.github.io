@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: GUO BIN
+      value: Albert Einstein
     - name: Date of Birth
-      value: 15th February 1991
+      value: 14th March 1879
     - name: Languages
-      value: Chinese, Japanese, English
+      value: English, German
 
 - title: Education
   type: time_table
