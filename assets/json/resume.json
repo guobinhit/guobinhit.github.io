@@ -29,11 +29,11 @@
       "url": "https://www.bytedance.com/",
       "startDate": "2022-04-13",
       "endDate": "today",
-      "summary": "Worked in the vertical business of China Business Platform and am responsible for the research and development of brand ad direction."
+      "summary": "Worked in the vertical business of China Business Platform and am responsible for the research and development of brand advertisement direction."
     },
     {
       "name": "Senior Engineer",
-      "position": " DiDi",
+      "position": "DiDi",
       "url": "https://www.didiglobal.com/",
       "startDate": "2021-03-02",
       "endDate": "2022-04-07",
@@ -41,15 +41,15 @@
     },
     {
       "name": "Senior Engineer",
-      "position": " GaoTu",
-      "url": "https://baike.baidu.com/item/%E9%AB%98%E9%80%94%E9%9B%86%E5%9B%A2/56802279?fr=ge_ala",
+      "position": "GaoTu",
+      "url": "https://www.baijia.com/",
       "startDate": "2020-03-12",
       "endDate": "2021-02-26",
       "summary": "Worked in the User Growth Department and am responsible for the microserviceization and questionnaire system of the TianQuan system."
     },
     {
       "name": "Senior Engineer",
-      "position": " YeePay",
+      "position": "YeePay",
       "url": "https://www.yeepay.com/",
       "startDate": "2016-12-19",
       "endDate": "2020-02-14",
@@ -62,7 +62,7 @@
       "location": "Harbin, China",
       "url": "https://www.hit.edu.cn/",
       "area": "Basic Mathematics",
-      "studyType": " M.S.",
+      "studyType": "M.S.",
       "startDate": "2015-07-15",
       "endDate": "2017-09-30"
     },
@@ -71,7 +71,7 @@
       "location": "Daqing, China",
       "url": "https://www.byau.edu.cn/",
       "area": "Information and Computing Science",
-      "studyType": " B.S.",
+      "studyType": "B.S.",
       "startDate": "2011-07-15",
       "endDate": "2015-09-30"
     }
