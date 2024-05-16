@@ -128,7 +128,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: GUO BIN # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_description: Tour Guide, Crosstalk Actor, Senior Engineer
 permalink: /blog/:year/:title/
 
 # Pagination
