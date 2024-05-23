@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I was born in a remote small mountain village in Harbin, Heilongjiang Province, China. Graduated from [Heilongjiang Bayi Agricultural University](https://www.byau.edu.cn/) with a Bachelor of Science degree in Information and Computational Science in 2015; Graduated from [Harbin Institute of Technology](https://www.hit.edu.cn/) with a Master's degree in Basic Mathematics in 2017. 
+I was born in a remote small mountain village in Harbin, Heilongjiang Province, China. Graduated from [Heilongjiang Bayi Agricultural University](http://www.byau.edu.cn/) with a Bachelor of Science degree in Information and Computational Science in 2015; Graduated from [Harbin Institute of Technology](https://www.hit.edu.cn/) with a Master's degree in Basic Mathematics in 2017. 
 
 I used to work in [DiDi](https://www.didiglobal.com/). At present, I am working in the [ByteDance](https://www.bytedance.com/) "China's commercial products and technology - commercial platform and architecture - commercial platform - non closed loop and brand advertising China's commercial products and technology" team as a senior engineer.
 
