@@ -15,14 +15,14 @@ nav_order: 9
 * [AhaApple](https://www.ahaapple.com/idea)
 * [ChatGPT](https://chat.openai.com/)
 * [Gemini（Google）](https://gemini.google.com/)
-* [豆包（字节跳动）](https://www.doubao.com/chat/)
-* [通义（阿里巴巴）](https://tongyi.aliyun.com/)
-* [文心一言（百度）](https://yiyan.baidu.com/)
-* [讯飞星火（科大讯飞）](https://xinghuo.xfyun.cn/)
+* [DouBao（ByteDance）](https://www.doubao.com/chat/)
+* [Qwen（Alibaba）](https://tongyi.aliyun.com/)
+* [ERNIE Bot（Baidu）](https://yiyan.baidu.com/)
 
 ## Practical website
 
 * [iLoveIMG](https://www.iloveimg.com/zh-cn)
+* [transform](https://transform.tools/json-to-yaml)
 * [BeJSON](https://www.bejson.com/)
 * [Json.cn](https://www.json.cn/)
 * [Json Diff](https://jsondiff.com/)
