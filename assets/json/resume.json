@@ -114,6 +114,15 @@
         "Travel",
         "Delicious Food"
       ]
+    },
+    {
+      "name": "Sport",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Badminton",
+        "Ping-Pong",
+        "Skiing"
+      ]
     }
   ]
 }

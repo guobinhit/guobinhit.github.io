@@ -11,13 +11,19 @@ nav_order: 9
 
 * [Devv](https://devv.ai/)
 * [Kimi.ai](https://kimi.moonshot.cn/)
-* [Claude.ai](https://www.anthropic.com/claude)
-* [AhaApple](https://www.ahaapple.com/idea)
 * [ChatGPT](https://chat.openai.com/)
 * [Gemini（Google）](https://gemini.google.com/)
 * [DouBao（ByteDance）](https://www.doubao.com/chat/)
-* [Qwen（Alibaba）](https://tongyi.aliyun.com/)
+* [Qwen（Alibaba）](https://tongyi.aliyun.com/qianwen/)
 * [ERNIE Bot（Baidu）](https://yiyan.baidu.com/)
+
+## Academic tools
+
+* [ORCID](https://orcid.org/)
+* [Sci-Hub](https://sci-hub.se/)
+* [Overleaf](https://www.overleaf.com/project)
+* [ResearchGate](https://www.researchgate.net/)
+* [Google Scholar](https://scholar.google.com/)
 
 ## Practical website
 
@@ -33,10 +39,8 @@ nav_order: 9
 * [Base64 Encode and Decode](https://base64.us/)
 * [Timestamp Transfer Tool](https://www.beijing-time.org/shijianchuo/)
 
-## Academic tools
+## MacOS Free APP
 
-* [ORCID](https://orcid.org/)
-* [Sci-Hub](https://sci-hub.se/)
-* [Overleaf](https://www.overleaf.com/project)
-* [ResearchGate](https://www.researchgate.net/)
-* [Google Scholar](https://scholar.google.com/)
+* [MacZip](https://maczip.cn/)
+* [IINA - The modern media player for macOS](https://iina.io/)
+
