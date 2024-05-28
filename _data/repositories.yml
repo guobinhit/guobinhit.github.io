@@ -6,6 +6,10 @@ github_users:
 github_repos:
   - guobinhit/timekit
   - guobinhit/myleetcode
+  - guobinhit/akka-guide
+  - guobinhit/design-pattern
+  - guobinhit/intellij-idea-tutorial
+  - guobinhit/mysql-tutorial
 #  - alshedivat/al-folio
 #  - twbs/bootstrap
 #  - jekyll/jekyll

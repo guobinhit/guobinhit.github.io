@@ -19,25 +19,23 @@ nav_order: 9
 
 ## Academic tools
 
-* [ORCID](https://orcid.org/)
-* [Sci-Hub](https://sci-hub.se/)
-* [Overleaf](https://www.overleaf.com/project)
-* [ResearchGate](https://www.researchgate.net/)
-* [Google Scholar](https://scholar.google.com/)
+* [ORCID - Connecting research and researchers](https://orcid.org/)
+* [Sci-Hub - knowledge to everyone](https://sci-hub.se/)
+* [Overleaf - Online LaTex Editor](https://www.overleaf.com/project)
+* [ResearchGate - Find and share research](https://www.researchgate.net/)
+* [Google Scholar - Standing on the Shoulder of Giants](https://scholar.google.com/)
 
 ## Practical website
 
+* [Dev Tools - Multi Online Tools Collection](https://fusionauth.io/dev-tools/)
 * [iLoveIMG](https://www.iloveimg.com/zh-cn)
 * [transform](https://transform.tools/json-to-yaml)
 * [BeJSON](https://www.bejson.com/)
 * [Json.cn](https://www.json.cn/)
 * [Json Diff](https://jsondiff.com/)
 * [C++ Insights](https://cppinsights.io/)
-* [Generate UUID](https://www.zxgj.cn/g/uuid)
 * [Crontab Guru](https://crontab.guru/#5_4_*_*_*)
 * [Regular Expressions](https://regex101.com/)
-* [Base64 Encode and Decode](https://base64.us/)
-* [Timestamp Transfer Tool](https://www.beijing-time.org/shijianchuo/)
 
 ## MacOS Free APP
 
