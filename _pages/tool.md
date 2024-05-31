@@ -7,6 +7,13 @@ nav: true
 nav_order: 9
 ---
 
+## INDEX
+
+- [Gen AI](#gen-ai)
+- [Academic tools](#academic-tools)
+- [Practical website](#practical-website)
+- [MacOS Free APP](#macos-free-app)
+
 ## Gen AI
 
 * [Devv](https://devv.ai/)
@@ -27,10 +34,11 @@ nav_order: 9
 
 ## Practical website
 
-* [C++ Insights](https://cppinsights.io/)
-* [BeJSON](https://www.bejson.com/)
-* [Json.cn](https://www.json.cn/)
+* [Convert JSON to CSV](https://konklone.io/json/)
+* [Json Formatter & Validator](https://jsonformatter.curiousconcept.com/#)
 * [Json Diff - The semantic JSON compare tool](https://jsondiff.com/)
+* [JSON Hero - An open-source, beautiful JSON explorer for the web](https://jsonhero.io/)
+* [JSON Crack - Best JSON Visualizer, Formatter and Viewer for everyone](https://jsoncrack.com/editor)
 * [iLovePDF - Online PDF tools for PDF lovers](https://www.ilovepdf.com/zh-cn)
 * [iLoveIMG - The fastest free app for easy image modification](https://www.iloveimg.com/zh-cn)
 * [Cronitor - The Cron schedule expression generator](https://crontab.guru/#5_4_*_*_*)
