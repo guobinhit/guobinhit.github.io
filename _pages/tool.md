@@ -27,18 +27,21 @@ nav_order: 9
 
 ## Practical website
 
-* [Dev Tools - Multi Online Tools Collection](https://fusionauth.io/dev-tools/)
-* [iLoveIMG](https://www.iloveimg.com/zh-cn)
-* [transform](https://transform.tools/json-to-yaml)
+* [C++ Insights](https://cppinsights.io/)
 * [BeJSON](https://www.bejson.com/)
 * [Json.cn](https://www.json.cn/)
-* [Json Diff](https://jsondiff.com/)
-* [C++ Insights](https://cppinsights.io/)
-* [Crontab Guru](https://crontab.guru/#5_4_*_*_*)
-* [Regular Expressions](https://regex101.com/)
+* [Json Diff - The semantic JSON compare tool](https://jsondiff.com/)
+* [iLovePDF - Online PDF tools for PDF lovers](https://www.ilovepdf.com/zh-cn)
+* [iLoveIMG - The fastest free app for easy image modification](https://www.iloveimg.com/zh-cn)
+* [Cronitor - The Cron schedule expression generator](https://crontab.guru/#5_4_*_*_*)
+* [regex101 - build, test, and debug regex](https://regex101.com/)
+* [transform - A polyglot web converter](https://transform.tools/json-to-yaml)
+* [Online UUID Generator](https://fusionauth.io/dev-tools/uuid-generator)
+* [Online Date and time utilities](https://fusionauth.io/dev-tools/date-time)
+* [Online Base64 Encoder & Decoder](https://fusionauth.io/dev-tools/base64-encoder-decoder)
 
 ## MacOS Free APP
 
-* [MacZip](https://maczip.cn/)
+* [MacZip - Specially designed for macOS](https://maczip.cn/)
 * [IINA - The modern media player for macOS](https://iina.io/)
 
