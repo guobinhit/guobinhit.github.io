@@ -10,8 +10,8 @@ nav_order: 9
 ## INDEX
 
 - [Gen AI](#gen-ai)
-- [Academic tools](#academic-tools)
-- [Practical website](#practical-website)
+- [Academic Tools](#academic-tools)
+- [Practical Website](#practical-website)
 - [MacOS Free APP](#macos-free-app)
 
 ## Gen AI
@@ -24,7 +24,7 @@ nav_order: 9
 * [Qwen（Alibaba）](https://tongyi.aliyun.com/qianwen/)
 * [ERNIE Bot（Baidu）](https://yiyan.baidu.com/)
 
-## Academic tools
+## Academic Tools
 
 * [ORCID - Connecting research and researchers](https://orcid.org/)
 * [Sci-Hub - knowledge to everyone](https://sci-hub.se/)
@@ -32,13 +32,10 @@ nav_order: 9
 * [ResearchGate - Find and share research](https://www.researchgate.net/)
 * [Google Scholar - Standing on the Shoulder of Giants](https://scholar.google.com/)
 
-## Practical website
+## Practical Website
 
-* [Convert JSON to CSV](https://konklone.io/json/)
 * [Json Formatter & Validator](https://jsonformatter.curiousconcept.com/#)
 * [Json Diff - The semantic JSON compare tool](https://jsondiff.com/)
-* [JSON Hero - An open-source, beautiful JSON explorer for the web](https://jsonhero.io/)
-* [JSON Crack - Best JSON Visualizer, Formatter and Viewer for everyone](https://jsoncrack.com/editor)
 * [iLovePDF - Online PDF tools for PDF lovers](https://www.ilovepdf.com/zh-cn)
 * [iLoveIMG - The fastest free app for easy image modification](https://www.iloveimg.com/zh-cn)
 * [Cronitor - The Cron schedule expression generator](https://crontab.guru/#5_4_*_*_*)
@@ -52,4 +49,5 @@ nav_order: 9
 
 * [MacZip - Specially designed for macOS](https://maczip.cn/)
 * [IINA - The modern media player for macOS](https://iina.io/)
+* [DBeaver - Free universal database tool and SQL client](https://dbeaver.io/)
 

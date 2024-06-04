@@ -10,10 +10,7 @@ github_repos:
   - guobinhit/design-pattern
   - guobinhit/intellij-idea-tutorial
   - guobinhit/mysql-tutorial
-#  - alshedivat/al-folio
-#  - twbs/bootstrap
-#  - jekyll/jekyll
-#  - jquery/jquery
-#  - FortAwesome/Font-Awesome
-#  - jpswalsh/academicons
-#  - mathjax/MathJax
+  - alshedivat/al-folio
+  - matplotlib/matplotlib
+  - getlantern/lantern
+  - shadowsocks/ShadowsocksX-NG
