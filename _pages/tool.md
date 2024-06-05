@@ -44,10 +44,12 @@ nav_order: 9
 * [Online UUID Generator](https://fusionauth.io/dev-tools/uuid-generator)
 * [Online Date and time utilities](https://fusionauth.io/dev-tools/date-time)
 * [Online Base64 Encoder & Decoder](https://fusionauth.io/dev-tools/base64-encoder-decoder)
+* [Coda - Your all-in-one collaborative workspace](https://coda.io/)
 
 ## MacOS Free APP
 
 * [MacZip - Specially designed for macOS](https://maczip.cn/)
 * [IINA - The modern media player for macOS](https://iina.io/)
 * [DBeaver - Free universal database tool and SQL client](https://dbeaver.io/)
+* [NTFSTool - An NTFS disk tool for macOS system, officially certified by Apple](https://ntfstool.com/)
 
