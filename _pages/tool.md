@@ -52,4 +52,5 @@ nav_order: 9
 * [IINA - The modern media player for macOS](https://iina.io/)
 * [DBeaver - Free universal database tool and SQL client](https://dbeaver.io/)
 * [NTFSTool - An NTFS disk tool for macOS system, officially certified by Apple](https://ntfstool.com/)
+* [NotepadNext - A cross-platform, reimplementation of Notepad++](https://github.com/dail8859/NotepadNext)
 
